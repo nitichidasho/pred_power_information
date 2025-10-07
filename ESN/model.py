@@ -1,5 +1,5 @@
 """
-参考：EchoStateNetwork を tf.keras で書いてみた
+引用：EchoStateNetwork を tf.keras で書いてみた
 (https://qiita.com/k-kotera/items/f87ae8d04ad3962454d2)2024/2/19 参照
 """
 
